@@ -1,12 +1,5 @@
-[
-    {
-        "title": "fjklafsknj",
-        "text": "klasnfkljansfkjsndfkjasndflkjansdlkjfnasdlkjfnaksldfhaskjdhfaks;jdhf;aksjdhf;aksjdhf",
-        "note_id": "a45fbb1c-749d-45da-b2a2-5d68f9ac62ad"
-    },
-    {
-        "title": "awdknjsfknjfa",
-        "text": "knasdlkansdlkamnsdlkmaslkdmalsdmliawmdlkamsd",
-        "note_id": "afdd1e0d-ca26-46ca-964d-e2803f90e3d7"
-    }
-]
+[{
+    "title": "Test 1 2, Test 1 2",
+    "text": "This is a test note",
+    "note_id": "a45fbb1c-749d-45da-b2a2-5d68f9ac62ad"
+}]

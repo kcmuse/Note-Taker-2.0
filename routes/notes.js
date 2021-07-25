@@ -22,7 +22,6 @@ notes.get('/notes/note_id', (req, res) => {
         });
 });
 
-// DELETE Route for a specific tip
 notes.delete('/notes/note_id', (req, res) => {
     const noteId = req.params.note_id;
     readFromFile('./db/notes.json')

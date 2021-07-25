@@ -7,6 +7,8 @@ const PORT = process.env.port || 3001;
 
 const app = express();
 
+app.use(express.static('public'));
+
 app.use(clog);
 
 app.use(express.json());
